@@ -1,4 +1,4 @@
 # Git-And-Github
 learning git and github
 <br>
-Author - Shubham Sharma
+Author - Shubham Sharma the Devil
